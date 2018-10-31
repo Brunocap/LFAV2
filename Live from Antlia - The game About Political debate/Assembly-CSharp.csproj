@@ -61,18 +61,23 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AttackCard.cs" />
+    <Compile Include="Assets\Scripts\AttackCardDisplay.cs" />
+    <Compile Include="Assets\Scripts\Card.cs" />
     <Compile Include="Assets\Scripts\CardRotation.cs" />
+    <Compile Include="Assets\Scripts\TrapCard.cs" />
+    <Compile Include="Assets\Scripts\TrapCardDisplay.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/Downloads/HDD/GitHub/-Live-from-Antlia---The-game-about-political-debate/Live from Antlia - The game About Political debate/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/Downloads/HDD/GitHub/LFAV2/Live from Antlia - The game About Political debate/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Downloads/HDD/GitHub/-Live-from-Antlia---The-game-about-political-debate/Live from Antlia - The game About Political debate/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Downloads/HDD/GitHub/LFAV2/Live from Antlia - The game About Political debate/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Downloads/HDD/GitHub/-Live-from-Antlia---The-game-about-political-debate/Live from Antlia - The game About Political debate/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Downloads/HDD/GitHub/LFAV2/Live from Antlia - The game About Political debate/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Downloads/HDD/GitHub/-Live-from-Antlia---The-game-about-political-debate/Live from Antlia - The game About Political debate/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Downloads/HDD/GitHub/LFAV2/Live from Antlia - The game About Political debate/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Applications/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -255,7 +260,7 @@
       <HintPath>D:/Applications/Editor/Data/Managed/Unity.Locator.dll</HintPath>
     </Reference>
     <Reference Include="Facebook.Unity.Settings">
-      <HintPath>D:/Downloads/HDD/GitHub/-Live-from-Antlia---The-game-about-political-debate/Live from Antlia - The game About Political debate/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+      <HintPath>D:/Downloads/HDD/GitHub/LFAV2/Live from Antlia - The game About Political debate/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>D:/Applications/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

@@ -6,4 +6,5 @@ using UnityEngine;
 public class TrapCard : Card
 {
     public int effect;
+    public int turnsleft;
 }
