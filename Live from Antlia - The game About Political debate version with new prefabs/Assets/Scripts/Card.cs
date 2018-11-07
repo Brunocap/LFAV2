@@ -10,5 +10,6 @@ public class Card : ScriptableObject {
     public int cardCost;
     public string costType;
     public bool isTrap;
-
+    public bool ongoing;
+    public bool isInstant;
 }

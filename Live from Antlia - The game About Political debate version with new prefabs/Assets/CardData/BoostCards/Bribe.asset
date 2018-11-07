@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f93ccffe3d77e4b4098b2c7d1e493105, type: 3}
+  m_Name: Bribe
+  m_EditorClassIdentifier: 
+  cardName: Bribe
+  description: Discard enemy ongoing effect
+  art: {fileID: 0}
+  cardCost: 20
+  costType: funds
+  isTrap: 0
+  ongoing: 0
+  effect: 0
+  boost: 0
+  boostType: integrity

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4C99C316-2839-4C68-5A27-5BB446BE3AFA}</ProjectGuid>
+    <ProjectGuid>{A7FBF5B1-A9E0-E75C-BED0-8A422D3C0667}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -55,21 +55,27 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\AttackCard.cs" />
      <Compile Include="Assets\Scripts\AttackCardDisplay.cs" />
+     <Compile Include="Assets\Scripts\BoostCard.cs" />
+     <Compile Include="Assets\Scripts\BoostCardDisplay.cs" />
      <Compile Include="Assets\Scripts\Card.cs" />
      <Compile Include="Assets\Scripts\CardRotation.cs" />
+     <Compile Include="Assets\Scripts\InstantCard.cs" />
+     <Compile Include="Assets\Scripts\InstantCardDisplay.cs" />
+     <Compile Include="Assets\Scripts\StressCard.cs" />
+     <Compile Include="Assets\Scripts\StressCardDisplay.cs" />
      <Compile Include="Assets\Scripts\TrapCard.cs" />
      <Compile Include="Assets\Scripts\TrapCardDisplay.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>E:/Live from Antlia - The game About Political debate/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>E:/LFAV2/Live from Antlia - The game About Political debate version with new prefabs/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>E:/Live from Antlia - The game About Political debate/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>E:/LFAV2/Live from Antlia - The game About Political debate version with new prefabs/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>E:/Live from Antlia - The game About Political debate/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>E:/LFAV2/Live from Antlia - The game About Political debate version with new prefabs/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>E:/Live from Antlia - The game About Political debate/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>E:/LFAV2/Live from Antlia - The game About Political debate version with new prefabs/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -252,7 +258,7 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Unity.Locator.dll</HintPath>
  </Reference>
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>E:/Live from Antlia - The game About Political debate/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>E:/LFAV2/Live from Antlia - The game About Political debate version with new prefabs/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>

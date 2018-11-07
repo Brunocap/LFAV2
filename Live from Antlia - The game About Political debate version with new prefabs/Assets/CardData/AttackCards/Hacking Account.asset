@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edd8c169687efc449b3f101409a44ddf, type: 3}
+  m_Name: Hacking Account
+  m_EditorClassIdentifier: 
+  cardName: Hacking Account
+  description: What's yours is mine. Damage done is given to you.
+  art: {fileID: 0}
+  cardCost: 10
+  costType: integrity
+  isTrap: 0
+  ongoing: 0
+  damage: 20
+  damageType: funds

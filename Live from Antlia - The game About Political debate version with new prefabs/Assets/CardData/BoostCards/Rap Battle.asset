@@ -9,14 +9,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f93ccffe3d77e4b4098b2c7d1e493105, type: 3}
-  m_Name: New Boost Card
+  m_Name: Rap Battle
   m_EditorClassIdentifier: 
-  cardName: 
+  cardName: Rap Battle
   description: 
   art: {fileID: 0}
-  cardCost: 0
-  costType: 
+  cardCost: 10
+  costType: funds
   isTrap: 0
+  ongoing: 0
   effect: 0
-  boost: 0
-  boostType: 
+  boost: 25
+  boostType: popularity
