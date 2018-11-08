@@ -324,6 +324,7 @@
     <Compile Include="Assets\Scripts\StressCardDisplay.cs" />
     <Compile Include="Assets\Scripts\TrapCard.cs" />
     <Compile Include="Assets\Scripts\TrapCardDisplay.cs" />
+    <Compile Include="Assets\UniqueEffectScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Packages\com.unity.package-manager-ui\Editor\Resources\Styles\Main_Dark.uss" />

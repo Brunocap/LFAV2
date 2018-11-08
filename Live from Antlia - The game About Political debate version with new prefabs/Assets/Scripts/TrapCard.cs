@@ -6,5 +6,13 @@ using UnityEngine;
 public class TrapCard : Card
 {
     public int effect;
-    public int turnsleft;
+    public int turnsleft = 4;
+
+    public void Trigger(TrapCard thisCard)
+    {
+        if (turnsleft == 0)
+        {
+
+        }
+    }
 }

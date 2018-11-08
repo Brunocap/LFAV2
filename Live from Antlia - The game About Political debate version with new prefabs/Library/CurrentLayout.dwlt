@@ -322,7 +322,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8e6effff
+    m_SelectedIDs: 54290000
     m_LastClickedID: 0
     m_ExpandedIDs: 1afbffff00000000
     m_RenameOverlay:
@@ -568,11 +568,11 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/CardData/InstantCards
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/CardData/InstantCards
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\LFAV2\Live from Antlia - The game About Political debate version
     with new prefabs
@@ -580,9 +580,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1e320000
-    m_LastClickedID: 12830
-    m_ExpandedIDs: 00000000ca2b0000e22d000000ca9a3b
+    m_SelectedIDs: 602c0000
+    m_LastClickedID: 11360
+    m_ExpandedIDs: 00000000be2b0000dc2d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -610,7 +610,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ca2b0000e22d0000
+    m_ExpandedIDs: 00000000be2b0000dc2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
