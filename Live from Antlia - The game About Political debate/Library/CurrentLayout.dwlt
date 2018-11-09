@@ -36,12 +36,21 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 964
     y: 0
     width: 396
     height: 675
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    x: 1459
+    y: 0
+    width: 461
+    height: 947
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -129,12 +138,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1360
     height: 675
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
   controlID: 63
+=======
+    width: 1920
+    height: 947
+  m_MinSize: {x: 683, y: 492}
+  m_MaxSize: {x: 14004, y: 14042}
+  vertical: 0
+  controlID: 9
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -153,12 +171,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 964
     height: 675
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
   controlID: 64
+=======
+    width: 1459
+    height: 947
+  m_MinSize: {x: 406, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
+  vertical: 1
+  controlID: 10
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -177,12 +204,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 964
     height: 365
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
   controlID: 65
+=======
+    width: 1459
+    height: 645
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
+  vertical: 0
+  controlID: 11
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -199,10 +235,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 290
     height: 365
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    width: 441
+    height: 645
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -222,10 +265,17 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 290
     y: 0
     width: 674
     height: 365
+=======
+    x: 441
+    y: 0
+    width: 1018
+    height: 645
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 14}
@@ -250,9 +300,15 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 365
     width: 964
     height: 310
+=======
+    y: 645
+    width: 1459
+    height: 302
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 17}
@@ -281,10 +337,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 966
     y: 92
     width: 394
     height: 654
+=======
+    x: 1461
+    y: 92
+    width: 459
+    height: 926
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
@@ -317,6 +380,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 92
+<<<<<<< HEAD
     width: 288
     height: 344
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -325,6 +389,16 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: dcfbffff00000000
+=======
+    width: 439
+    height: 624
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 18fbffff
+    m_LastClickedID: -1256
+    m_ExpandedIDs: c8faffffecfaffff16fbffff18fbffff1afbffff00000000
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -368,10 +442,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 292
     y: 92
     width: 670
     height: 344
+=======
+    x: 443
+    y: 92
+    width: 1014
+    height: 624
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 8082.428106196748
@@ -379,9 +460,15 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 1.4864613, y: 0.75164026, z: -0.371965}
     speed: 2
     m_Value: {x: 1.4864613, y: 0.75164026, z: -0.371965}
+=======
+    m_Target: {x: -0.026564289, y: -0.82229, z: -0.40448552}
+    speed: 2
+    m_Value: {x: -0.026564289, y: -0.82229, z: -0.40448552}
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -413,9 +500,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 1.8784426
     speed: 2
     m_Value: 1.8784426
+=======
+    m_Target: 5.1581006
+    speed: 2
+    m_Value: 5.1581006
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -552,9 +645,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 457
     width: 962
     height: 289
+=======
+    y: 737
+    width: 1457
+    height: 281
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -568,6 +667,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -575,14 +675,29 @@ MonoBehaviour:
   - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Downloads\HDD\GitHub\LFAV2\Live from Antlia - The game About
+=======
+    - Assets/CardData/AttackCards
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/CardData/AttackCards
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\B00312114\Desktop\Live from Antlia - The game About
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
     Political debate
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: c42a0000
     m_LastClickedID: 10948
     m_ExpandedIDs: 00000000302a000000ca9a3b
+=======
+    m_SelectedIDs: 742d0000
+    m_LastClickedID: 11636
+    m_ExpandedIDs: 00000000b42b0000902d000000ca9a3b
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -610,7 +725,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000302a0000
+=======
+    m_ExpandedIDs: 00000000b42b0000902d0000
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -637,8 +756,13 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000ae2a0000
+=======
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000ae2a000098310000
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

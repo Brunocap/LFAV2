@@ -12,5 +12,8 @@ public class Card : ScriptableObject {
     public bool isTrap;
     public bool ongoing;
     public bool isInstant;
+<<<<<<< HEAD
 
+=======
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
 }

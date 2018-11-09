@@ -8,14 +8,22 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: 7517767e7e3a4ea41b9750aae528c6a7, type: 3}
+=======
+  m_Script: {fileID: 11500000, guid: 02b5a538bc761db45b773429cca16caf, type: 3}
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
   m_Name: Free Spa
   m_EditorClassIdentifier: 
   cardName: Free Spa
   description: Relaxed and ready to go
   art: {fileID: 0}
   cardCost: 0
+<<<<<<< HEAD
   costType: Integrity
+=======
+  costType: integrity
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
   isTrap: 0
   ongoing: 0
   isInstant: 0

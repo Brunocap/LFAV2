@@ -23,6 +23,7 @@ public class StressCardDisplay : MonoBehaviour {
 
         costText.text = card.cardCost.ToString();
         costType.text = card.costType;
+<<<<<<< HEAD
         if (costType.text == "Integrity")
         {
             costText.color = new Color(0f, 0f, 200f);
@@ -32,6 +33,17 @@ public class StressCardDisplay : MonoBehaviour {
             costText.color = new Color(200f, 200f, 0f);
         }
         if (costType.text == "Popularity")
+=======
+        if (costType.text == "integrity")
+        {
+            costText.color = new Color(0f, 0f, 200f);
+        }
+        if (costType.text == "funds")
+        {
+            costText.color = new Color(200f, 200f, 0f);
+        }
+        if (costType.text == "popularity")
+>>>>>>> c64a30ea75d7fbffc33afa9808c8fea352b615b1
         {
             costText.color = new Color(128f, 0f, 128f);
         }
